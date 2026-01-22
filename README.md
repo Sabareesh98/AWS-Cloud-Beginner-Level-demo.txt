@@ -135,13 +135,7 @@ http://<public-dns>
 
 ---
 
-## 📸 Screenshots (Optional)
-
-Add screenshots here:
-
-* EC2 running instances
-* Web page output
-* S3 bucket object view
+## 📸 Screenshots 
 
 ---
 
